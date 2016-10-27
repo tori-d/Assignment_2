@@ -1,0 +1,15 @@
+---
+title: "Pair Assignment 2"
+author: "Tori Dykes and Mansi Wadhwa"
+date: "28 October 2016"
+output: pdf_document
+bibliography:
+    - bibliography.bib
+---
+
+## Introductory Literature Review
+
+The intersection and interaction between youth unemployment and political participation/engagement has been explored to varying degrees. A study from Lorenzini and Giugni [-@LorenziniGiugni] tackled the subject directly via study of long-term unemployed and empployed youth in Geneva. They ultimately found that there was no real difference in the political involvement of unemployed and employed youth when looking at activities like protesting and contacting politicians, though unemployed youth were more likely to partake in consumer-based forms of involvement (e.g., boycotts or buying items with a political motivation). Lorenzini conducted another study [-@Lorenzini] using this same dataset of employed and unemployed youth in Geneva, this time focusing on the role life satisfaction plays in fostering political engagement. She found, somewhat unexpectedly, that among unemployed youth, life dissatisfaction actually decreases political engagement. In both studies, the results offer additional perspective on youth unemployment and political engagement, but the focus is quite narrow, since only youths in one specific European coity are included. 
+
+More generally on the topic of youth political engagement in Europe, Sloam [-@Sloam13] analyzed European Social Survey data from the years 2000 - 2008, focusing on to what extent European youth are politically engaged and in what types of activities they engage in (but not looking at the role other issues like youth unemployment might play in influencing these trends). He found that while youth particpation in traditional political activities like voting or being active in a party is declining, alternative forms of engagement (such as online organization) are increasing in popularity. 
+
