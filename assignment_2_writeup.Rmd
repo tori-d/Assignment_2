@@ -2,9 +2,8 @@
 title: "Pair Assignment 2"
 author: "Tori Dykes and Mansi Wadhwa"
 date: "28 October 2016"
-output: pdf_document
-bibliography:
-    - bibliography.bib
+output: html_document
+bibliography: bibliography.bib
 ---
 
 ## Proposed Topic
