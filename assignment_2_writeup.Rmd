@@ -2,7 +2,7 @@
 title: "Pair Assignment 2"
 author: "Tori Dykes and Mansi Wadhwa"
 date: "28 October 2016"
-output: pdf_document
+output: html_document
 bibliography: bibliography.bib
 ---
 
@@ -17,6 +17,9 @@ Answering these questions is a complicated web of matching internal feelings to 
 In summation our working research question is, **"How does the youth unemployment rate in European countries affect the level and type of political engagement among youths in those same countries?"**
 
 ## Proposed Methodology and Data Sets
+
+Our key sources of data will be the [OECD's datasets on Youth
+Unemployment](https://data.oecd.org/unemp/youth-unemployment-rate.htm) and the [European Social Survey (ESS)](http://www.europeansocialsurvey.org/). The OECD data is available yearly, quarterly, and monthly, though we are only interested in yearly data. The ESS is a survey conducted every two years, starting in 2002. It aims to measure "the attitudes, beliefs and behaviour patterns of diverse populations in more than thirty nations." It specifies rigorous standards for sampling in each country in order to ensure the samples are representative. 
 
 ## Introductory Literature Review
 
